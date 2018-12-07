@@ -29,7 +29,8 @@
 
 ### 2.什么是静态代理
 静态代理：代理类是在编译时就实现好的。也就是说 Java 编译完成后代理类是一个实际的 class 文件。
-Java 实现代码
+
+Java 实现代码如下：
 ```java
 public class ProxyDemo {
     public static void main(String args[]){
